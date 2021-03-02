@@ -1,0 +1,44 @@
+06-Oct-2020 13:14:27.614 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.0-M8
+06-Oct-2020 13:14:27.618 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 9 2020 11:27:04 UTC
+06-Oct-2020 13:14:27.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.0.0
+06-Oct-2020 13:14:27.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+06-Oct-2020 13:14:27.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+06-Oct-2020 13:14:27.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+06-Oct-2020 13:14:27.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-14.0.2
+06-Oct-2020 13:14:27.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           14.0.2+12-46
+06-Oct-2020 13:14:27.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+06-Oct-2020 13:14:27.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Eclipse projects
+06-Oct-2020 13:14:27.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Eclipse projects
+06-Oct-2020 13:14:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Eclipse projects
+06-Oct-2020 13:14:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Eclipse projects
+06-Oct-2020 13:14:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Eclipse projects\temp
+06-Oct-2020 13:14:27.636 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+06-Oct-2020 13:14:27.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Eclipse projects\conf\logging.properties
+06-Oct-2020 13:14:27.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+06-Oct-2020 13:14:27.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+06-Oct-2020 13:14:27.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+06-Oct-2020 13:14:27.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+06-Oct-2020 13:14:27.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: abort
+06-Oct-2020 13:14:27.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+06-Oct-2020 13:14:27.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+06-Oct-2020 13:14:27.640 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Eclipse projects\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-14.0.2\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\WINDOWS\ServiceProfiles\LocalService\AppData\Local\Microsoft\WindowsApps;.]
+06-Oct-2020 13:14:27.944 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+06-Oct-2020 13:14:27.978 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [583] milliseconds
+06-Oct-2020 13:14:28.029 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+06-Oct-2020 13:14:28.029 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.0-M8]
+06-Oct-2020 13:14:28.038 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Eclipse projects\webapps\docs]
+06-Oct-2020 13:14:28.425 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Eclipse projects\webapps\docs] has finished in [384] ms
+06-Oct-2020 13:14:28.425 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Eclipse projects\webapps\examples]
+06-Oct-2020 13:14:29.256 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Eclipse projects\webapps\examples] has finished in [830] ms
+06-Oct-2020 13:14:29.256 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Eclipse projects\webapps\host-manager]
+06-Oct-2020 13:14:29.307 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Eclipse projects\webapps\host-manager] has finished in [51] ms
+06-Oct-2020 13:14:29.308 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Eclipse projects\webapps\manager]
+06-Oct-2020 13:14:29.356 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Eclipse projects\webapps\manager] has finished in [48] ms
+06-Oct-2020 13:14:29.356 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Diretório de instalação da aplicação web [C:\Eclipse projects\webapps\ROOT]
+06-Oct-2020 13:14:29.388 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Eclipse projects\webapps\ROOT] has finished in [32] ms
+06-Oct-2020 13:14:29.391 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+06-Oct-2020 13:14:29.430 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1451] milliseconds
+06-Oct-2020 13:47:41.612 INFO [Thread-3] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+06-Oct-2020 13:47:41.628 INFO [Thread-3] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+06-Oct-2020 13:47:41.659 INFO [Thread-3] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+06-Oct-2020 13:47:41.690 INFO [Thread-3] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

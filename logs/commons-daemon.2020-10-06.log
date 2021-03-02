@@ -1,0 +1,33 @@
+[2020-10-06 12:56:34] [info]  [12424] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-10-06 12:56:34] [info]  [12424] Installing service 'Tomcat10' name 'Apache Tomcat 10.0 Tomcat10'.
+[2020-10-06 12:56:34] [info]  [12424] Service 'Tomcat10' installed.
+[2020-10-06 12:56:34] [info]  [12424] Apache Commons Daemon procrun finished.
+[2020-10-06 12:56:38] [info]  [ 4964] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-10-06 12:56:38] [info]  [ 4964] Updating service...
+[2020-10-06 12:56:38] [info]  [ 4964] Updated service 'Tomcat10'.
+[2020-10-06 12:56:38] [info]  [ 4964] Finished updating service 'Tomcat10'.
+[2020-10-06 12:56:38] [info]  [ 4964] Apache Commons Daemon procrun finished.
+[2020-10-06 12:56:38] [info]  [ 7068] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-10-06 12:56:38] [info]  [ 7068] Updating service...
+[2020-10-06 12:56:38] [info]  [ 7068] Updated service 'Tomcat10'.
+[2020-10-06 12:56:38] [info]  [ 7068] Finished updating service 'Tomcat10'.
+[2020-10-06 12:56:38] [info]  [ 7068] Apache Commons Daemon procrun finished.
+[2020-10-06 12:56:38] [info]  [ 1216] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-10-06 12:56:38] [info]  [ 1216] Updating service...
+[2020-10-06 12:56:38] [info]  [ 1216] Updated service 'Tomcat10'.
+[2020-10-06 12:56:38] [info]  [ 1216] Finished updating service 'Tomcat10'.
+[2020-10-06 12:56:38] [info]  [ 1216] Apache Commons Daemon procrun finished.
+[2020-10-06 12:56:38] [info]  [ 9432] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-10-06 12:56:38] [info]  [ 9432] Updating service...
+[2020-10-06 12:56:38] [info]  [ 9432] Updated service 'Tomcat10'.
+[2020-10-06 12:56:38] [info]  [ 9432] Finished updating service 'Tomcat10'.
+[2020-10-06 12:56:38] [info]  [ 9432] Apache Commons Daemon procrun finished.
+[2020-10-06 13:14:25] [info]  [ 9136] Apache Commons Daemon procrun (1.2.2.0 64-bit) started.
+[2020-10-06 13:14:25] [info]  [ 9136] Running Service 'Tomcat10'...
+[2020-10-06 13:14:25] [info]  [11504] Starting service...
+[2020-10-06 13:14:27] [info]  [11504] Service started in 1373 milliseconds.
+[2020-10-06 13:47:41] [info]  [11580] Console SHUTDOWN event signaled.
+[2020-10-06 13:47:41] [info]  [11580] Stopping service...
+[2020-10-06 13:47:42] [info]  [11580] Service stop thread completed.
+[2020-10-06 13:47:42] [info]  [ 9136] Run service finished.
+[2020-10-06 13:47:42] [info]  [ 9136] Apache Commons Daemon procrun finished.
